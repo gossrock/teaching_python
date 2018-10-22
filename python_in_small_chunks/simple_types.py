@@ -1,0 +1,7 @@
+print("testing 123")
+print("123")
+print("123 + 321")
+print(123)
+print(123.2)
+print(123 + 321)
+print( (123 + 321) == 444)
